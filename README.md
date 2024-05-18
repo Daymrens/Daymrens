@@ -14,4 +14,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Daymrens&" alt="deme" /></p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Daymrens&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<img src="https://myreadme.vercel.app/api/embed/YOURUSERNAME?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dime Renz Apor</h1>
 <h3 align="center">A passionate Computer Science student from Asian College of Technology.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deme&label=Profile%20views&color=00ff11&style=flat" alt="deme" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Daymrens&label=Profile%20views&color=00ff11&style=flat" alt="deme" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/Dime Renz Apor/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
